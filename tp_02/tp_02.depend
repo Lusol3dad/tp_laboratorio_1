@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1493417977 source:c:\users\commodore\desktop\nuevotp2\tp_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1493400665 c:\users\commodore\desktop\nuevotp2\tp_02\funciones.h
+
+1493417284 source:c:\users\commodore\desktop\nuevotp2\tp_02\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
